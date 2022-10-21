@@ -8,9 +8,10 @@ namespace PrRaise
         {
             Console.WriteLine("Test1 Method");
         }
-         public void Test3()
+
+        public void Test2()
         {
-            Console.WriteLine("Test3 Method");
+            Console.WriteLine("Test2 Method");
         }
         static void Main(string[] args)
         {
