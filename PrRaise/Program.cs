@@ -8,6 +8,10 @@ namespace PrRaise
         {
             Console.WriteLine("Test1 Method");
         }
+         public void Test3()
+        {
+            Console.WriteLine("Test3 Method");
+        }
         static void Main(string[] args)
         {
         }
